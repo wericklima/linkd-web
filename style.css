@@ -34,6 +34,7 @@ body {
   background: var(--bg-url) no-repeat top center/cover;
 }
 
+/*containers*/
 #container {
   width: 100%;
   padding: 0 24px;
@@ -41,6 +42,7 @@ body {
   margin: 56px auto 0px;
 }
 
+/*profiles*/
 #profile {
   text-align: center;
   padding: 24px;
